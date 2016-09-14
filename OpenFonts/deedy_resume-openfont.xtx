@@ -65,8 +65,8 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Debarghya}{Das}{ \urlstyle{same}\href{http://debarghyadas.com}{debarghyadas.com}| \href{http://fb.co/dd}{fb.co/dd}\\
-\href{mailto:deedy@fb.com}{deedy@fb.com} | 607.379.5733 | \href{mailto:dd367@cornell.edu}{dd367@cornell.edu}
+\namesection{Gregory}{Carlin}{ \urlstyle{same}\href{http://gregcarl.in}{http://gregcarl.in}\\
+914.325.3213 | \href{mailto:gregory_carlin@brown.edu}{gregory\_carlin@brown.edu}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -83,22 +83,25 @@
 
 \section{Education} 
 
-\subsection{Cornell University}
-\descript{MEng in Computer Science}
-\location{Dec 2014 | Ithaca, NY}
-\sectionsep
-
-\subsection{Cornell University}
+\subsection{Brown University}
 \descript{BS in Computer Science}
-\location{May 2014 | Ithaca, NY}
-College of Engineering \\
-Magna Cum Laude\\
-\location{ Cum. GPA: 3.83 / 4.0 \\
-Major GPA: 3.9 / 4.0}
+\location{May 2019 (Anticipated) | Providence, RI}
+\location{GPA: 4.0 / 4.0}
+\descript{Selected Coursework}
+\location{User Interface Design}
+\location{The Entrepreneurial Process}
+\location{Software Engineering}
+\location{Design and Analysis of Alogrithms}
+\location{Computer Systems}
 \sectionsep
 
-\subsection{La Martiniere for Boys}
-\location{Grad. May 2011|  Kolkata, India}
+\subsection{Byram Hills High School}
+\location{Grad. May 2015 | Armonk, NY}
+\descript{Awards}
+\location{Eagle Scout}
+\location{Intel Science Talent Search Semifinalist}
+\location{Abe Shahim Research Award}
+\location{Acorda Scientific Excellence Award}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -106,37 +109,8 @@ Major GPA: 3.9 / 4.0}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Links} 
-Facebook:// \href{https://facebook/dd}{\bf dd} \\
-Github:// \href{https://github.com/deedydas}{\bf deedydas} \\
-LinkedIn://  \href{https://www.linkedin.com/in/debarghyadas}{\bf debarghyadas} \\
-YouTube://  \href{https://www.youtube.com/user/DeedyDash007}{\bf DeedyDash007} \\
-Twitter://  \href{https://twitter.com/debarghya_das}{\bf @debarghya\_das} \\
-Quora://  \href{https://www.quora.com/Debarghya-Das}{\bf Debarghya-Das}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     COURSEWORK
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Coursework}
-\subsection{Graduate}
-Advanced Machine Learning \\
-Open Source Software Engineering \\
-Advanced Interactive Graphics \\
-Compilers + Practicum \\
-Cloud Computing \\
-Evolutionary Computation \\
-Defending Computer Networks \\
-Machine Learning \\
-\sectionsep
-
-\subsection{Undergraduate}
-Information Retrieval \\
-Operating Systems \\
-Artificial Intelligence + Practicum \\
-Functional Programming \\
-Computer Graphics + Practicum \\
-{\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst 2x) }}} \\
-Unix Tools and Scripting \\
+Github:// \href{https://github.com/gregthegeek}{\bf gregthegeek} \\
+LinkedIn://  \href{https://www.linkedin.com/in/gcarlin}{\bf gcarlin} \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
@@ -144,13 +118,14 @@ Unix Tools and Scripting \\
 
 \section{Skills}
 \subsection{Programming}
-\location{Over 5000 lines:}
-Java \textbullet{}   Shell \textbullet{} Python \textbullet{} Javascript \\
-OCaml \textbullet{} Matlab \textbullet{} Rails \textbullet{} \LaTeX\ \\ 
-\location{Over 1000 lines:}
-C \textbullet{} C++ \textbullet{} CSS \textbullet{} PHP \textbullet{} Assembly \\
+\location{Expert:}
+Java \textbullet{} CSS \textbullet{} Javascript \\
+HTML \\
+\location{Proficient:}
+Python \textbullet{} SQL \textbullet{} PHP \\
 \location{Familiar:}
-AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
+Shell \textbullet{} iOS \textbullet{} \LaTeX\ \textbullet{} C++ \textbullet{} Pyret \\
+Drupal
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -167,77 +142,80 @@ AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
 %     EXPERIENCE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Experience}
-\runsubsection{Facebook}
-\descript{| Software Engineer }
-\location{Jan 2015 - Present | New York, NY}
-\sectionsep
-
-\runsubsection{Coursera}
-\descript{| KPCB Fellow + Software Engineering Intern }
-\location{June 2014 – Sep 2014 | Mountain View, CA}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}\item 52 out of 2500 applicants chosen to be a KPCB Fellow 2014.
-\item Led and shipped Yoda - the admin interface for the new Phoenix platform. 
-\item Full-stack developer - Wrote and reviewed code for JS using Backbone, Jade, Stylus and Require and Scala using Play
+\runsubsection{Brown University}
+\descript{| Teaching Assistant }
+\location{Sep 2016 - Dec 2016 | Providence, RI}
+%\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+  \item Teaching assistant for Accelerated Introduction to Computer Science.
+  \item Graded weekly assignments.
+  \item Guided students through labs and homework problems during weekly office hours.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Google}
-\descript{| Software Engineering Intern }
-\location{May 2013 – Aug 2013 | Mountain View, CA}
+\runsubsection{airDrive}
+\descript{| Software Developer, Co-Founder}
+\location{Jun 2016 - Jul 2016 | Providence, RI}
 \begin{tightemize}
-\item Worked on the YouTube Captions team, in Javascript and Python to plan, to design and develop the full stack to add and edit Automatic Speech Recognition captions. In production.\item Created a backbone.js-like framework for the Captions editor.\end{tightemize}
+  \item Built a cloud storage website that combined the ease of Dropbox with the security of end-to-end encryption.
+  \item Leveraged storj, a peer-to-peer storage network for cheaper costs.
+  \item Participated in B-Lab, a summer entrepreneurship program at Brown University.
+\end{tightemize}
 \sectionsep
 
-\runsubsection{Phabricator}
-\descript{| Open Source Contributor \& Team Leader}
-\location{Jan 2013 – May 2013 | Palo Alto, CA \& Ithaca, NY}
+\runsubsection{State of Rhode Island}
+\descript{| Technical Intern }
+\location{Feb 2016 - May 2016 | Providence, RI}
 \begin{tightemize}
-\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.\item I created the Meme generator and more in PHP and Shell.\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.\end{tightemize}
+  \item Built GetOutdoorsRI - a website encouraging Rhode Islanders to explore local parks and commissioned by the governor's office.
+  \item Independently fixed and modified Missouri's similar website (100 Missouri Miles), built on Drupal.
+\end{tightemize}
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     RESEARCH
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Research}
-\runsubsection{Cornell Robot Learning Lab}
-\descript{| Researcher}
-\location{Jan 2014 – Jan 2015 | Ithaca, NY}
-Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  
+\runsubsection{Brown University Web Services}
+\descript{| Web Development Intern }
+\location{Oct 2015 - January 2016 | Providence, RI}
+\begin{tightemize}
+  \item Updated various Drupal websites within the Brown University ecosystem.
+\end{tightemize}
 \sectionsep
 
-\runsubsection{Cornell Phonetics Lab}
-\descript{| Head Undergraduate Researcher}
-\location{Mar 2012 – May 2013 | Ithaca, NY}
-Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. 
+\runsubsection{SchoolBee}
+\descript{| Software Developer }
+\location{May 2015 - Sep 2015 | Rye, NY}
+\begin{tightemize}
+  \item One of two developers that worked on the second iteration of SchoolBee's web platform, which is used by school districts throughout Westchester County.
+  \item Developed an automated view system to improve the speeds of reads from the database (MongoDB).
+\end{tightemize}
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Awards} 
-\begin{tabular}{rll}
-2014	     & top 52/2500  & KPCB Engineering Fellow\\
-2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
-2013	     & National  & Jump Trading Challenge Finalist\\
-2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
-2012     & 2\textsuperscript{nd}/150 & CS 3110 Biannual Intra-Class Bot Tournament \\
-2011     & National & Indian National Mathematics Olympiad (INMO) Finalist \\
-\end{tabular}
+\runsubsection{jGrader}
+\descript{| Software Developer, Project Lead}
+\location{Sep 2014 - Jun 2015 | Armonk, NY}
+\begin{tightemize}
+  \item Built jGrader.com - a website that enabled high school computer science teachers to accept assignments online.
+  \item Saw initial traction among computer science teachers nationwide, with tens of teachers and hundreds of active student users.
+\end{tightemize}
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     PUBLICATIONS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\runsubsection{ProcessWatch}
+\descript{| Software Developer}
+\location{Dec 2014 - Sep 2015 | Armonk, NY}
+\begin{tightemize}
+  \item Co-developed Process.watch - a website that assisted cloud service providers in managing email-based server notifications.
+  \item Sold stake to local cloud service provider.
+\end{tightemize}
+\sectionsep
 
-\section{Publications} 
-\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
-\bibliographystyle{abbrv}
-\bibliography{publications}
-\nocite{*}
+\runsubsection{Virtual Trustee, LLC}
+\descript{| Software Developer }
+\location{Jun 2014 - Sep 2015 | Bedford Hills, NY}
+\begin{tightemize}
+  \item Sole developer of MyTrustCo - a website that educated individuals on how to manage trusts.
+  \item Organized as a freelance project by a local couple.
+  \item Built initial site from scratch on PHP and MySQL, later rebuilt on top of Drupal.
+\end{tightemize}
+\sectionsep
 
 \end{minipage} 
 \end{document}  \documentclass[]{article}
