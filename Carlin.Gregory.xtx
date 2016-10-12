@@ -124,8 +124,8 @@ HTML \\
 \location{Proficient:}
 Python \textbullet{} SQL \textbullet{} PHP \\
 \location{Familiar:}
-Shell \textbullet{} iOS \textbullet{} \LaTeX\ \textbullet{} C++ \textbullet{} Pyret \\
-Drupal
+Shell \textbullet{} iOS \textbullet{} \LaTeX\ \textbullet{} C \textbullet{} Pyret \\
+Drupal \textbullet{} Assembly
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -147,9 +147,9 @@ Drupal
 \location{Sep 2016 - Dec 2016 | Providence, RI}
 %\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-  \item Teaching assistant for Accelerated Introduction to Computer Science.
-  \item Graded weekly assignments.
-  \item Guided students through labs and homework problems during weekly office hours.
+  \item Teaching assistant for \textit{Accelerated Introduction to Computer Science}.
+  \item Graded weekly Pyret assignments for class of around 60 students.
+  \item Guided students through labs and homeworks during weekly office hours.
 \end{tightemize}
 \sectionsep
 
@@ -157,9 +157,9 @@ Drupal
 \descript{| Software Developer, Co-Founder}
 \location{Jun 2016 - Jul 2016 | Providence, RI}
 \begin{tightemize}
-  \item Built a cloud storage website that combined the ease of Dropbox with the security of end-to-end encryption.
-  \item Leveraged storj, a peer-to-peer storage network for cheaper costs.
-  \item Participated in B-Lab, a summer entrepreneurship program at Brown University.
+  \item Built a proof-of-concept cloud storage website that combined the ease of Dropbox with the security of end-to-end encryption.
+  \item Participated in Breakthrough-Lab, a summer entrepreneurship program at Brown University.
+  \item Used Nodejs, MySQL, and Storj, a peer-to-peer storage network that provides cheaper costs and extra security.
 \end{tightemize}
 \sectionsep
 
@@ -167,8 +167,8 @@ Drupal
 \descript{| Technical Intern }
 \location{Feb 2016 - May 2016 | Providence, RI}
 \begin{tightemize}
-  \item Built GetOutdoorsRI - a website encouraging Rhode Islanders to explore local parks and commissioned by the governor's office.
-  \item Independently fixed and modified Missouri's similar website (100 Missouri Miles), built on Drupal.
+  \item Sole developer of GetOutdoorsRI - a website encouraging Rhode Islanders to explore local parks and commissioned by the governor's office.
+  \item Fixed, adapted, and modified Missouri's similar website (100 Missouri Miles), built on Drupal.
 \end{tightemize}
 \sectionsep
 
@@ -184,8 +184,9 @@ Drupal
 \descript{| Software Developer }
 \location{May 2015 - Sep 2015 | Rye, NY}
 \begin{tightemize}
-  \item One of two developers that worked on the second iteration of SchoolBee's web platform, which is used by school districts throughout Westchester County.
-  \item Developed an automated view system to improve the speeds of reads from the database (MongoDB).
+  \item One of two developers that worked on SchoolBee's K-12 directory software, which is used by school districts throughout Westchester County.
+  \item Developed an automated view system in Nodejs to improve the speeds of reads from the MongoDB database.
+  \item Web-based platform is used by thousands of K-12 students and their families.
 \end{tightemize}
 \sectionsep
 
@@ -193,8 +194,8 @@ Drupal
 \descript{| Software Developer, Project Lead}
 \location{Sep 2014 - Jun 2015 | Armonk, NY}
 \begin{tightemize}
-  \item Built jGrader.com - a website that enabled high school computer science teachers to accept assignments online.
-  \item Saw initial traction among computer science teachers nationwide, with tens of teachers and hundreds of active student users.
+  \item Built jGrader.com - a Nodejs website with a MySQL database that enables high school computer science teachers to accept Java assignments online.
+  \item No longer actively developed, but still has hundreds of active users.
 \end{tightemize}
 \sectionsep
 
@@ -202,7 +203,7 @@ Drupal
 \descript{| Software Developer}
 \location{Dec 2014 - Sep 2015 | Armonk, NY}
 \begin{tightemize}
-  \item Co-developed Process.watch - a website that assisted cloud service providers in managing email-based server notifications.
+  \item Co-developed Process.watch - a Nodejs website with a MongoDB database that assisted cloud service providers in managing email-based server notifications.
   \item Sold stake to local cloud service provider.
 \end{tightemize}
 \sectionsep
@@ -211,7 +212,7 @@ Drupal
 \descript{| Software Developer }
 \location{Jun 2014 - Sep 2015 | Bedford Hills, NY}
 \begin{tightemize}
-  \item Sole developer of MyTrustCo - a website that educated individuals on how to manage trusts.
+  \item Sole developer of MyTrustCo - a website that educates individuals on how to manage trusts.
   \item Organized as a freelance project by a local couple.
   \item Built initial site from scratch on PHP and MySQL, later rebuilt on top of Drupal.
 \end{tightemize}
