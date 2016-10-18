@@ -172,14 +172,6 @@ Drupal \textbullet{} Assembly
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Brown University Web Services}
-\descript{| Web Development Intern }
-\location{Oct 2015 - January 2016 | Providence, RI}
-\begin{tightemize}
-  \item Updated various Drupal websites within the Brown University ecosystem.
-\end{tightemize}
-\sectionsep
-
 \runsubsection{SchoolBee}
 \descript{| Software Developer }
 \location{May 2015 - Sep 2015 | Rye, NY}
@@ -215,6 +207,15 @@ Drupal \textbullet{} Assembly
   \item Sole developer of MyTrustCo - a website that educates individuals on how to manage trusts.
   \item Organized as a freelance project by a local couple.
   \item Built initial site from scratch on PHP and MySQL, later rebuilt on top of Drupal.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Research}
+\descript{| Object-Oriented Database Management Systems }
+\location{Jan 2013 - May 2015 | Bedford Hills, NY}
+\begin{tightemize}
+  \item Developed a query cost model for the weakly dependent subquery optimization of the Stack-Based Query Language.
+  \item Selected as one of 300 semifinalists in the Intel Science Talent Search, and one of 6 to be presented at Facebook's Manhattan office.
 \end{tightemize}
 \sectionsep
 
