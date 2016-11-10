@@ -1,0 +1,103 @@
+Education 
+
+Brown University
+BS in Computer Science
+May 2019 (Anticipated)  Providence, RI
+GPA: 4.0 / 4.0
+Selected Coursework
+User Interface Design
+The Entrepreneurial Process
+Software Engineering
+Design and Analysis of Algorithms
+Computer Systems
+
+
+Byram Hills High School
+Grad. May 2015  Armonk, NY
+Awards
+Eagle Scout
+Intel Science Talent Search Semifinalist
+Abe Shahim Research Award
+Acorda Scientific Excellence Award
+
+Links 
+Github:// https://github.com/gregthegeekgregthegeek 
+LinkedIn://  https://www.linkedin.com/in/gcarlingcarlin 
+
+Skills
+Programming
+Expert:
+Java  CSS  Javascript  HTML 
+
+Proficient:
+Python  SQL  PHP 
+
+Familiar:
+Shell  iOS  C  Pyret  Drupal  Assembly
+
+Brown University
+ Teaching Assistant 
+  Sep 2016 - Dec 2016  Providence, RI
+
+  Teaching assistant for Accelerated Introduction to Computer Science.
+  Graded weekly Pyret assignments for class of around 60 students.
+  Guided students through labs and homeworks during weekly office hours.
+
+
+airDrive
+ Software Developer, Co-Founder
+  Jun 2016 - Jul 2016  Providence, RI
+
+  Built a proof-of-concept cloud storage website that combined the ease of Dropbox with the security of end-to-end encryption.
+  Participated in Breakthrough-Lab, a summer entrepreneurship program at Brown University.
+  Used Nodejs, MySQL, and Storj, a peer-to-peer storage network that provides cheaper costs and extra security.
+
+
+State of Rhode Island
+ Technical Intern 
+  Feb 2016 - May 2016  Providence, RI
+
+  Sole developer of GetOutdoorsRI - a website encouraging Rhode Islanders to explore local parks and commissioned by the governor's office.
+  Fixed, adapted, and modified Missouri's similar website (100 Missouri Miles), built on Drupal.
+
+
+SchoolBee
+ Software Developer 
+  May 2015 - Sep 2015  Rye, NY
+
+  One of two developers that worked on SchoolBee's K-12 directory software, which is used by school districts throughout Westchester County.
+  Developed an automated view system in Nodejs to improve the speeds of reads from the MongoDB database.
+  Web-based platform is used by thousands of K-12 students and their families.
+
+
+jGrader
+ Software Developer, Project Lead
+  Sep 2014 - Jun 2015  Armonk, NY
+
+  Built jGrader.com - a Nodejs website with a MySQL database that enables high school computer science teachers to accept Java assignments online.
+  No longer actively developed, but still has hundreds of active users.
+
+
+ProcessWatch
+ Software Developer
+  Dec 2014 - Sep 2015  Armonk, NY
+
+  Co-developed Process.watch - a Nodejs website with a MongoDB database that assisted cloud service providers in managing email-based server notifications.
+  Sold stake to local cloud service provider.
+
+
+Virtual Trustee, LLC
+ Software Developer 
+  Jun 2014 - Sep 2015  Bedford Hills, NY
+
+  Sole developer of MyTrustCo - a website that educates individuals on how to manage trusts.
+  Organized as a freelance project by a local couple.
+  Built initial site from scratch on PHP and MySQL, later rebuilt on top of Drupal.
+
+
+Research
+ Object-Oriented Database Management Systems 
+  Jan 2013 - May 2015  Armonk, NY
+
+  Developed a query cost model for the weakly dependent subquery optimization of the Stack-Based Query Language.
+  Selected as one of 300 semifinalists in the Intel Science Talent Search, and one of 6 to be presented at Facebook's Manhattan office, among other awards.
